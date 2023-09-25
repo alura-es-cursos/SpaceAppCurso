@@ -1,5 +1,5 @@
 
-const url = "https://api.nasa.gov/planetary/apod?api_key=Md6ZhB8e1s2GDDDn6dEI4WialPr963Fl4DVh6PcA&count=15" 
+const url = "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&count=15" //substituya la DEMO_KEY por tu llave personal(API Key) 
  
 
 async function listaImagenes() {
